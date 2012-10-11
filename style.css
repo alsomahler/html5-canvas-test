@@ -2,12 +2,6 @@ body {
 	margin: 0px;
 	padding: 10px;
 }
-#myCanvasOne {
-	border: 1px solid #9C9898;
-}
-#myCanvasTwo {
-	border: 1px solid #9C9898;
-}
-#myCanvasThree {
+.canvas {
 	border: 1px solid #9C9898;
 }
